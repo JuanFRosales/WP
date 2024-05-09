@@ -14,3 +14,4 @@
 ## Successes
 - [x] Installed theme
 - [x] Media uploading working fine
+- [x] Likes are working
