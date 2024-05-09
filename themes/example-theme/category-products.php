@@ -23,7 +23,7 @@ get_header();
                 'hide_empty' => true,
             ] );
 
-            // käydään läpi alikategoriat
+
             foreach ( $subcategories as $subcategory ):
                 echo '<h2>' . $subcategory->name . '</h2>';
 

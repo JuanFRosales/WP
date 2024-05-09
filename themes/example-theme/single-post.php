@@ -12,7 +12,7 @@ get_header();
                         the_content();
                     endwhile;
                 else :
-                    _e( 'Sorry, no posts matched your criteria.', 'esimerkki' );
+                    _e( '', 'esimerkki' );
                 endif;
                 ?>
                 <?php echo do_shortcode( '[like_button]' ); ?>
